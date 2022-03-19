@@ -1,0 +1,8 @@
+#KiCAD git ignore
+
+#Cache
+fp-info-cache
+*.kicad_prl
+
+#Backups
+/LenovoKeyboardRetrofit-backups
